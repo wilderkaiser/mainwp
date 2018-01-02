@@ -1,6 +1,4 @@
-# [MainWP Dashboard Plugin](https://mainwp.com/)
-
-Welcome to the MainWP Dashboard Plugin repository on GitHub. Here you can browse the source, look at open issues and keep track of development. 
+Welcome to the WOC Dashboard Plugin repository on GitHub. Here you can browse the source, look at open issues and keep track of development. 
 
 If you are not a developer, please download the [MainWP Dashboard Plugin](https://wordpress.org/plugins/mainwp/) on WordPress.org.
 
